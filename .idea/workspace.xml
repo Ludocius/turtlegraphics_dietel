@@ -18,6 +18,23 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="turtlegraphics" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -70,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661611393439</updated>
       <workItem from="1661611394891" duration="12000" />
-      <workItem from="1661611451935" duration="328000" />
+      <workItem from="1661611451935" duration="656000" />
     </task>
     <servers />
   </component>
